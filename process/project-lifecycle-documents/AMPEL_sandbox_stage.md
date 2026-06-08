@@ -92,8 +92,8 @@ and compliance workflows that consume it.
 The project is applying for Sandbox because it has been under development and
 testing for over a year, it has a mature codebase with releases, CI
 integrations, and ecosystem components. It is starting to roll into major Open
-Source projects in the OpenSSF and other foundation. But needs OpenSSF
-to thrive, it would benefit from the collaboration, governance maturity,
+Source projects in the OpenSSF and other foundations. But AMPEL needs the OpenSSF
+to thrive: it would benefit from the collaboration, governance maturity,
 broader community participation, and alignment with related projects and
 working groups as it grows. Not to mention setting it free from a single
 organization's control to pursue its mission.
@@ -116,7 +116,7 @@ maturity, and direction of the project.
 
 | Reference | URL |
 |---------------------|-----|
-| Repo | https://github.com/carabiner-dev/ampel |
+| Main Repository | https://github.com/carabiner-dev/ampel |
 | Supporting Repo: Collector | https://github.com/carabiner-dev/collector |
 | Supporting Repo: Attestation Framework | https://github.com/carabiner-dev/attestation |
 | Supporting Repo: Signer Library | https://github.com/carabiner-dev/signer |
