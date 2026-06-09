@@ -18,8 +18,8 @@ repos but, more importantly, they help us ensure admin access is
 granted to more than one maintainer to help the project's bus factor.
 
 In addition to the core maintainers, the project has also received
-minor contributions from other individuals across ists repositories
-including @arewm @InvariantSystems @qduanmu @ralphbean @staceypotter
+minor contributions from other individuals across its repositories
+including @arewm @InvariantSystems @qduanmu @knrc @ralphbean @staceypotter
 @TomHennen @trumant.
 
 ### AMPEL Ecosystem
@@ -27,7 +27,7 @@ including @arewm @InvariantSystems @qduanmu @ralphbean @staceypotter
 The project is currently hosted in the Carabiner Systems organization
 where it was originally developed. The donation plan includes migrating
 AMPEL and the other repositories to a new organization: github.com/policylabs.
-This organization will be the final home of ampel and will go under the
+This organization will be the final home of AMPEL and will go under the
 OpenSSF/LF control.
 
 In addition to the main AMPEL repository, the project depends on and
