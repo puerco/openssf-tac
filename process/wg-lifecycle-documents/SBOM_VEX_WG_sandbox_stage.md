@@ -10,17 +10,22 @@
 
 The Working Group brings together maintainers, tool builders, end-users, and specification contributors across multiple independent organizations.
 
-* **Interim Steering Chairs:**  
-  * Allan Friedman  
-  * Adolfo García Veytia  
-  * Kate Stewart  
+* **Interim Steering Chairs*:**  
+  * Allan Friedman (@allanfriedman)
+  * Adolfo García Veytia (@puerco)
+  * Kate Stewart (@kestewart)
 * **Interested Community Members & Organizations:**  
-  * VEX SIG Contributors  
-  * Protobom Maintainers / Contributors  
-  * bomctl Maintainers / Contributors  
-  * SBOMit Maintainers / Contributors  
-  * OpenVEX Maintainers / Contributors  
+  * VEX SIG Contributors
+  * @Protobom Maintainers / Contributors  
+  * @bomctl Maintainers / Contributors  
+  * @SBOMit Maintainers / Contributors  
+  * @OpenVEX Maintainers / Contributors  
   * Representatives and collaborators across SPDX, CycloneDX, and OASIS CSAF communities
+
+Interim chairs will be named to bootstrap the new Working Group's activities,
+aiming to hold elections within 3 months (see the
+[Governance](https://docs.google.com/document/d/1Mq9RlPCyi62u5SXKcJP96RCpbn6Ub3vwxDtHeIXDNoc/edit?tab=t.0)
+section in the charter draft)
 
 ## 2. Mission and Scope Alignment
 
