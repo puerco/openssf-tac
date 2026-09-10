@@ -76,7 +76,7 @@ Apache-2.0 license.
 
 ## 4. TAC Sponsor
 
-* **TAC Sponsor Name:** TBD
+* **TAC Sponsor Name:** Arnaud J Le Hors @lehors
 
 ## 5. Working Group References & Resources
 
